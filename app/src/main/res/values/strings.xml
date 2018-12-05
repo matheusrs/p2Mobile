@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P2Mobile</string>
+    <string name="img_drink">Imagem relacionada ao drink</string>
+    <string name="drinks">Drinks</string>
+    <string name="select_a_drink">Escolha um Drink</string>
+    <string name="strDrink">Nome do Drink</string>
+    <string name="strCategory">Categoria</string>
+    <string name="strAlcoholic">Alcoolico</string>
+    <string name="strGlass">Vidro</string>
+    <string name="strInstructions">Instruções</string>
+    <string name="strIngredient1">Ingrediente 1</string>
+    <string name="strIngredient2">Ingrediente 2</string>
+    <string name="strIngredient3">Ingrediente 3</string>
+    <string name="strMeasure1">Medida Ingrediente</string>
+</resources>
